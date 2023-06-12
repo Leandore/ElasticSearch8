@@ -38,6 +38,6 @@ bld/
 [Bb]uild[Ll]og.*
 
 *.log
-.vs/
-.vscode/
+.vs
+.vscode
 
