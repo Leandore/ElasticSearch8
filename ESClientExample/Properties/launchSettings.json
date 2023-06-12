@@ -1,0 +1,13 @@
+{
+  "profiles": {
+    "ESClientExample": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "ElasticsearchServiceUrl": "https://localhost:9200",
+        "ElasticsearchUsername": "elastic",
+        "ElasticsearchPassword": "letmein",
+        "ElasticsearchIndexName": "assets"
+      }
+    }
+  }
+}
